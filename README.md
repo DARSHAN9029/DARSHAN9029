@@ -7,7 +7,6 @@
 🌱 **Currently learning Deep Learning & Data Analytics**  
 🤝 **Looking to collaborate on AI/ML projects, hackathons, and open-source contributions**  
 📫 **How to reach me:** darshan9029@gmail.com 
-
 ⚡ **Fun fact:** I enjoy working on innovative ideas that can make an impact!  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DARSHAN9029&label=Profile%20views&color=0e75b6&style=flat)
@@ -33,3 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40"/>                
 </p>
 
+
+## Most Used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DARSHAN9029&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
