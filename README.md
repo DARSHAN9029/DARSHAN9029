@@ -34,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>          
 </p>
 
+<img align="right" alt="Coding Animation" width="300" src="">
 
 
 
