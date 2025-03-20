@@ -1,5 +1,5 @@
 # Hi 👋, I'm Darshan Jain 
-                                 ### A Passionate Engineer & AI/ML Enthusiast from India  
+**A Passionate Engineer & AI/ML Enthusiast from India**  
 
 🚀 **Aspiring Data Scientist**  
 💡 **Passionate about AI, Machine Learning, and Web Development**  
