@@ -35,8 +35,6 @@
 </p>
 
 
-<img align="right" alt="Coding Animation" width="300" src="https://ezgif.com/video-to-gif/ezgif-1b8591fc27ef1.mp4">
-
 
 
 ## Most Used Languages:
