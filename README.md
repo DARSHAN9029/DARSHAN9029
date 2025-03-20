@@ -1,5 +1,9 @@
 # Hi 👋, I'm Darshan Jain 
-**A Passionate Engineer & AI/ML Enthusiast from India**  
+<p align="center">
+  <strong>A Passionate Engineer & AI/ML Enthusiast from India</strong>
+</p>
+
+<img align="right" alt="Coding Animation" width="300" src="https://github.com/DARSHAN9029/DARSHAN9029/blob/main/Innovation-ezgif.com-video-to-gif-converter.gif"> 
 
 🚀 **Aspiring Data Scientist**  
 💡 **Passionate about AI, Machine Learning, and Web Development**  
@@ -34,7 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>          
 </p>
 
-<img align="right" alt="Coding Animation" width="300" src="https://github.com/DARSHAN9029/DARSHAN9029/blob/main/Innovation-ezgif.com-video-to-gif-converter.gif">
 
 
 
