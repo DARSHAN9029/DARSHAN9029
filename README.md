@@ -1,6 +1,6 @@
 # Hi 👋, I'm Darshan Jain 
 <p align="center">
-  <strong>A Passionate Engineer & AI/ML Enthusiast from India</strong>
+  <strong>🤖A Passionate Engineer & AI/ML Enthusiast from India🤖</strong>
 </p>
 
 <img align="right" alt="Coding Animation" width="200" height="200" src="https://github.com/DARSHAN9029/DARSHAN9029/blob/main/Innovation-ezgif.com-video-to-gif-converter.gif"> 
