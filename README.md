@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding Animation" width="200" height="210" src="https://github.com/DARSHAN9029/DARSHAN9029/blob/main/Innovation-ezgif.com-video-to-gif-converter.gif"> 
 
-🚀 **Aspiring Data Scientist**  
+🚀 **Aspiring AI & ML ENGINEER**  
 💡 **Passionate about AI, Machine Learning, and Web Development**  
 📊 **Love working on data-driven projects and solving real-world problems**  
 🌱 **Currently learning Deep Learning & Data Analytics**  
