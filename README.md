@@ -21,7 +21,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DARSHAN9029&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DARSHAN9029&theme=blue_navy&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DARSHAN9029&theme=default&hide_border=false)<br/>
 
 ## Languages and Tools:
 <p align="left">
@@ -59,4 +59,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DARSHAN9029&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
