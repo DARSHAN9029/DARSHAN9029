@@ -15,6 +15,10 @@
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/darshan-k-jain-03035a27)
 
+[![](https://visitcount.itsvg.in/api?id=DARSHAN9029&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=DARSHAN9029&label=Profile%20views&color=0e75b6&style=flat)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DARSHAN9029&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DARSHAN9029&theme=blue_navy&hide_border=false)<br/>
@@ -57,7 +61,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=DARSHAN9029&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DARSHAN9029&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-![Profile Views](https://komarev.com/ghpvc/?username=DARSHAN9029&label=Profile%20views&color=0e75b6&style=flat)
