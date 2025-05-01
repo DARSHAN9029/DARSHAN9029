@@ -12,6 +12,8 @@
 🤝 **Looking to collaborate on AI/ML projects, hackathons, and open-source contributions**  
 📫 **How to reach me:** darshan9029@gmail.com 
 
+
+
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/darshan-k-jain-03035a27)
 
