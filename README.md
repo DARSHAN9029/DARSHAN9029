@@ -8,7 +8,7 @@
 🚀 **Aspiring AI & ML ENGINEER**  
 💡 **Passionate about AI, Machine Learning, and Web Development**  
 📊 **Love working on data-driven projects and solving real-world problems**  
-🌱 **Currently learning Deep Learning & Data Analytics**  
+🌱 **Currently learning Deep Learning & Generative AI**  
 🤝 **Looking to collaborate on AI/ML projects, hackathons, and open-source contributions**  
 📫 **How to reach me:** darshan9029@gmail.com 
 
