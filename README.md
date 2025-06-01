@@ -1,4 +1,4 @@
-# Hi 👋, I'm Darshan Jain 
+# Hi 👋, I'm Darshan K Jain 
 <p align="center">
   <strong>🤖A Passionate Engineer & AI/ML Enthusiast from India🤖</strong>
 </p>
