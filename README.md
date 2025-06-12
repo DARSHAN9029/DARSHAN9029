@@ -5,10 +5,10 @@
 
 <img align="right" alt="Coding Animation" width="200" height="210" src="https://github.com/DARSHAN9029/DARSHAN9029/blob/main/Innovation-ezgif.com-video-to-gif-converter.gif"> 
 
-💡 **Passionate about AI, Machine Learning and Web development**  
-📊 **Love working on data-driven projects and solving real-world problems**  
-🌱 **Currently learning Deep Learning & Generative AI**  
-🤝 **Looking to collaborate on AI/ML projects, hackathons, and open-source contributions**  
+💡 **Passionate about AI, Machine Learning and Web development.**  
+📊 **Love working on data-driven projects and solving real-world problems.**  
+🌱 **Currently learning Deep Learning & Generative AI.**  
+🤝 **Looking to collaborate on AI/ML projects, hackathons, and open-source contributions.**  
 📫 **How to reach me:** darshan9029@gmail.com 
 
 
