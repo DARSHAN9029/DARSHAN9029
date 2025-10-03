@@ -46,10 +46,6 @@
 </p>
 
 ---
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DARSHAN9029&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
----
 ## Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DARSHAN9029&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
