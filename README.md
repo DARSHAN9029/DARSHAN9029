@@ -44,15 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>          
 </p>
-
----
-## Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DARSHAN9029&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DARSHAN9029&limit=5&theme=dark&combine_all_yearly_contributions=true)
