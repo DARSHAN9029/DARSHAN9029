@@ -19,11 +19,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=DARSHAN9029&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DARSHAN9029&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DARSHAN9029&theme=default&hide_border=false)<br/>
-
----
 ## Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
